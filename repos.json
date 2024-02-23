@@ -3,7 +3,7 @@
       "name": "ums512-kernel",
       "repo": "https://github.com/iscle/android_kernel_unisoc_ums512",
       "branch": "W20.13.3-clean",
-      "device": "HITV306N"
+      "device": "sprd_all"
     },
     "withKernelSU": false,
     "toolchains": [
